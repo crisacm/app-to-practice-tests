@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.github.crisacm.todotesting">
+
+    <application tools:ignore="MissingApplicationIcon">
+        <activity
+            android:name=".HiltTestActivity"
+            android:theme="@style/Theme.Material3.DayNight"
+            android:exported="false" />
+    </application>
+</manifest>

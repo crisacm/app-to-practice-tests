@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDo Testing</string>
+    <string name="due_today">Due Today</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="not_are_items_to_show">Not are items to show</string>
+    <string name="u_completed">COMPLETED</string>
+    <string name="u_to_do">TO DO</string>
+    <string name="u_add_task">ADD TASK</string>
+    <string name="save">Save</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="title">Title</string>
+    <string name="add_a_new_task">Add A New Task</string>
+    <string name="title_is_required">Title is required</string>
+    <string name="_0">0</string>
+</resources>
